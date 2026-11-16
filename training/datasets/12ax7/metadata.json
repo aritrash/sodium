@@ -1,0 +1,29 @@
+{
+    "model": "Koren Triode Model",
+    "tube": "12AX7",
+    "parameters": {
+        "mu": 100.0,
+        "ex": 1.4,
+        "kg1": 1060.0,
+        "kp": 600.0,
+        "kvb": 300.0
+    },
+    "grid": {
+        "vgk_V": [
+            -6.0,
+            0.0
+        ],
+        "vpk_V": [
+            50.0,
+            300.0
+        ],
+        "resolution": 150
+    },
+    "samples": 22500,
+    "target": "plate_current_mA",
+    "limitations": [
+        "Static phenomenological model",
+        "Negative grid-to-cathode voltage domain",
+        "Does not model grid current or dynamic parasitics"
+    ]
+}

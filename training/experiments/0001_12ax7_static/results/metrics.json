@@ -1,0 +1,26 @@
+{
+    "experiment": "SODIUM-0001",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 2050",
+    "dataset_samples": 22500,
+    "split_samples": {
+        "train": 20820,
+        "validation": 840,
+        "test": 840
+    },
+    "best_epoch": 107,
+    "best_validation_loss": 9.559834523997779e-08,
+    "test_metrics": {
+        "mae_mA": 0.001880961237475276,
+        "rmse_mA": 0.0022712198551744223,
+        "max_absolute_error_mA": 0.004903972148895264,
+        "mean_absolute_percentage_error_percent": 0.7843680381774902
+    },
+    "training_config": {
+        "seed": 42,
+        "batch_size": 512,
+        "learning_rate": 0.001,
+        "max_epochs": 1000,
+        "patience": 60
+    }
+}

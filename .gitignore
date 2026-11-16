@@ -1,0 +1,78 @@
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training checkpoints and exported model binaries
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+
+# CUDA / compiler artifacts
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.dylib
+*.exe
+
+# CMake / build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+.ninja_deps
+.ninja_log
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated audio
+*.wav
+*.flac
+*.mp3
+*.ogg
+
+# Temporary experiment outputs
+*.prof
+*.profraw
