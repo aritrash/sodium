@@ -1,0 +1,43 @@
+{
+  "operation": "manual_point_exclusion",
+  "source_csv": "/home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/digitized/linepilot/primary/dark_trace/ik_vs_vp_crop_digitized_points.csv",
+  "source_sha256": "57286611168bb90dbff884d592ab4c3ad0784a234c253c3ff5a6d222e66114ae",
+  "output_csv": "/home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/validated/cleaning/ik_vs_vp_crop_digitized_points_cleaned.csv",
+  "created_utc": "2026-11-17T17:27:14.652055+00:00",
+  "indexing": "zero-based original CSV row indices; header excluded",
+  "original_point_count": 190,
+  "retained_point_count": 177,
+  "removed_point_count": 13,
+  "removed_original_row_indices": [
+    35,
+    46,
+    92,
+    109,
+    122,
+    140,
+    153,
+    154,
+    158,
+    163,
+    164,
+    181,
+    189
+  ],
+  "explicit_index_selection": [
+    35,
+    46,
+    92,
+    109,
+    122,
+    140,
+    153,
+    154,
+    158,
+    163,
+    164,
+    181,
+    189
+  ],
+  "x_ranges": [],
+  "policy": "No automatic outlier removal or smoothing was performed. Original source CSV remains untouched."
+}

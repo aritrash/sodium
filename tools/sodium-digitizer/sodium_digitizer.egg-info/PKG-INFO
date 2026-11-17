@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: sodium-digitizer
+Version: 0.4.0
+Summary: Reproducible digitization, auditable curve cleaning, manual validation, and PCHIP resampling pipeline for Sodium
+Requires-Python: >=3.10
+Requires-Dist: Pillow>=10
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.0
+Requires-Dist: scipy>=1.11

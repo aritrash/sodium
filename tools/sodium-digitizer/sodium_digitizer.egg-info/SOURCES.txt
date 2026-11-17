@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+sodium_digitizer/__init__.py
+sodium_digitizer/cli.py
+sodium_digitizer/pipeline.py
+sodium_digitizer.egg-info/PKG-INFO
+sodium_digitizer.egg-info/SOURCES.txt
+sodium_digitizer.egg-info/dependency_links.txt
+sodium_digitizer.egg-info/entry_points.txt
+sodium_digitizer.egg-info/requires.txt
+sodium_digitizer.egg-info/top_level.txt

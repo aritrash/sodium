@@ -1,0 +1,11 @@
+{
+  "source_csv": "/home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/digitized/linepilot/primary/dark_trace/ik_vs_vp_crop_digitized_points.csv",
+  "source_sha256": "57286611168bb90dbff884d592ab4c3ad0784a234c253c3ff5a6d222e66114ae",
+  "output_csv": "/home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/validated/curves/ik_vs_vp_crop_digitized_points_candidate.csv",
+  "created_utc": "2026-11-17T17:14:11.060828+00:00",
+  "review_status": "REVIEW_REQUIRED",
+  "reviewer": null,
+  "checks": [],
+  "manual_acceptance_flag": false,
+  "note": "Manual acceptance is an explicit user assertion; the tool does not judge physical correctness."
+}

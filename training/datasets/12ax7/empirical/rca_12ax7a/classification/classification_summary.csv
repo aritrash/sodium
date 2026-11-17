@@ -1,0 +1,6 @@
+classification,plot_family,image_count
+INSTRUMENT_UI,instrument_interface,1
+PLOT_2D_CHARACTERISTIC,current_characteristic,4
+PLOT_2D_PARAMETER,conductance_parameter,6
+PLOT_2D_PARAMETER,resistance_parameter,12
+PLOT_3D,3d_characteristic,2

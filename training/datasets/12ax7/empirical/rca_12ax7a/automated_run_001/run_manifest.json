@@ -1,0 +1,8 @@
+{
+  "profile_id": "rca_12ax7a_ik_vs_vp_example",
+  "generated_utc": "2026-11-17T16:01:48.630976+00:00",
+  "source": "/home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/raw/NOS_RCA_12AX7A_Ik_vs_Vp_Vhtr_6p30_1p.jpg",
+  "linepilot": "/home/aritrash/Sodium/tools/LinePilot/Digitizer/digitizer.py",
+  "profile": "/home/aritrash/Sodium/tools/sodium-digitizer/configs/rca_12ax7a_profile_EXAMPLE.json",
+  "policy": "No extracted curve is promoted to MANUALLY_VALIDATED automatically."
+}

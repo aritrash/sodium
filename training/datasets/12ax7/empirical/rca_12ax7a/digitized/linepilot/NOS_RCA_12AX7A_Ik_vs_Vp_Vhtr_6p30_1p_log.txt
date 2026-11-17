@@ -1,0 +1,18 @@
+LinePilot Digitizer 2.17 - run log
+time             : 2026-11-17 20:51:11
+elapsed (s)      : 1.21
+image            : /home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/raw/NOS_RCA_12AX7A_Ik_vs_Vp_Vhtr_6p30_1p.jpg
+
+color (r,g,b)    : 203, 254, 254
+pixel coords (px) - tick positions in the image:
+    x_min tick   : (45, 235)
+    x_max tick   : (614, 266)
+    y_min tick   : (177, 510)
+    y_max tick   : (177, 376)
+tick -> values   : x_min=0.001, x_max=1.0, y_min=300.0, y_max=1.0  (OCR)
+axis scale       : X=linear, Y=linear
+OCR confidence   : 55.2%
+num points       : 633
+
+CSV              : /home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/digitized/linepilot/NOS_RCA_12AX7A_Ik_vs_Vp_Vhtr_6p30_1p_digitized_points.csv
+overlay          : /home/aritrash/Sodium/training/datasets/12ax7/empirical/rca_12ax7a/digitized/linepilot/NOS_RCA_12AX7A_Ik_vs_Vp_Vhtr_6p30_1p_digitized_overlay.png

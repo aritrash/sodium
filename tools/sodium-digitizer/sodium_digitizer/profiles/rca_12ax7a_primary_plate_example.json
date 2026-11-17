@@ -1,0 +1,54 @@
+{
+  "profile_id": "rca_12ax7a_ik_vs_vp_example",
+  "graph_type": "2d_characteristic",
+  "notes": "EXAMPLE ONLY. Calibrate ROI, ticks, axes, and RGB values against each source image before running. The six RGB values are placeholders and are not validated.",
+  "roi": [
+    66,
+    32,
+    613,
+    377
+  ],
+  "x_axis": {
+    "name": "plate_voltage",
+    "unit": "V",
+    "minimum": 0.0,
+    "maximum": 300.8,
+    "scale": "linear"
+  },
+  "y_axis": {
+    "name": "cathode_current",
+    "unit": "mA",
+    "minimum": 0.001,
+    "maximum": 4.776,
+    "scale": "linear"
+  },
+  "ticks": [
+    [
+      67,
+      376
+    ],
+    [
+      612,
+      376
+    ],
+    [
+      67,
+      376
+    ],
+    [
+      67,
+      33
+    ]
+  ],
+  "curves": [
+    {
+      "id": "trace_dark_example",
+      "grid_voltage_v": null,
+      "rgb": [
+        52,
+        1,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+sodium-digitizer = sodium_digitizer.cli:main
